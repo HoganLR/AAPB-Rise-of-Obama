@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "cc2ab594-03cc-4167-bd71-869fc3b2c240": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-2e2f208d6f2/download",
+      "duration": 3256,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": false,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In June 2008, after a long primary campaign against Hillary Clinton, Barack Obama was formally selected as the Democratic nominee for president of the United States. This moment was not only significant for Obama, but also for the legacy of the Democratic party. Once the party of anti-abolitionists and anti-integrationists, 21st century Democrats were now nominating the first Black man for president. In this excerpt, journalist Bill Moyers discusses the significance of Obama’s nomination and the evolution of party politics from the Civil War to the Civil Rights Movement to today (that is, 2008). "
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-05-14T21:01:21.068Z",
+  "created_by": "HoganLR",
+  "label": "Bill Moyers Journal (2007-2010); 1209; Moyers on the Nominee; Media, McClellan, and the War; Kathleen Hall Jamieson and Dr. Ronald Walters",
+  "updated_at": "2026-05-14T21:01:21.068Z",
+  "updated_by": "HoganLR",
+  "rights_statement": ""
+}
