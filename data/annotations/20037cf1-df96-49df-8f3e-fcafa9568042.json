@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 148,
+      "end_time": 400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the entire clip for the AAPB set"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8dd3a3f4-d0aa-4b80-a1fe-f9761483f794"
+    }
+  ],
   "set": "Default",
   "event_id": "c8da75eb-3931-4e63-982c-32eb61120bb2",
   "source_id": "91f38fbe-e111-4167-841c-7a0c2ab5fecc"
