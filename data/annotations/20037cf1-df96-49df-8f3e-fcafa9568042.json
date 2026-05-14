@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "8dd3a3f4-d0aa-4b80-a1fe-f9761483f794"
+    },
+    {
+      "start_time": 148,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The host begins the interview by asking Obama about his involvement in Chicago community efforts as a State Senator, but Obama first replies with a friendly remark that often the first thing people want to know about him is his name. He jokes how people often mispronounce it, expains that his father is from Kenya and his mother is from Kansas. This works to immediately contextualize his identity and use humor to address any potential stigma or unfamiliarity some local listeners might have with an unfamiliar name. His comment that \"my mother was from Kansas, which is why I talk the way I do,\" offers a friendly reconciliation between his name and his Midwestern accent. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "04a1362b-4364-46af-8fdc-9617ac85f6ef"
     }
   ],
   "set": "Default",
