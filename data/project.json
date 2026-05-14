@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "HoganLR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173841839?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "HoganLR",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-05-14T19:12:15.588Z",
-    "updated_at": "2026-05-14T19:12:15.588Z"
-  }
+    "updated_at": "2026-05-14T19:12:15.588Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "995f65a2-2d55-448a-9f09-08fcac0291ee": {
+      "content": [],
+      "created_at": "2026-05-14T19:12:15.590Z",
+      "created_by": "HoganLR",
+      "title": "AAPB Set: The Rise of Obama: America Elects Its First Black President",
+      "updated_at": "2026-05-14T19:12:15.590Z",
+      "updated_by": "HoganLR",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "995f65a2-2d55-448a-9f09-08fcac0291ee"
+  ]
 }
