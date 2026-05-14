@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "8594a527-ddbe-4413-b8d8-a6d2352d2a99": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-507-j96057dm3w/download",
+      "duration": 11226,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": false,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The day after being named a rising star by national media, Obama delivers a keynote address that brings an arena crowd to its feet in a standing ovation and leaves live broadcast commentators nearly speechless, except to remark that “what we just witnessed was a bit of history.” "
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-05-14T20:55:10.532Z",
+  "created_by": "HoganLR",
+  "label": "The NewsHour with Jim Lehrer",
+  "updated_at": "2026-05-14T20:55:10.532Z",
+  "updated_by": "HoganLR",
+  "rights_statement": ""
+}
