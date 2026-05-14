@@ -1,0 +1,35 @@
+{
+  "audiovisual_files": {
+    "be4742d3-2b0e-45ba-b0c1-ee1c0e9d7848": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-507-j09w08x41n/download",
+      "duration": 3422,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": false,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "After winning the hotly contested seven-way primary for the U.S. Senate seat, the Democratic National Committee began to take notice of Obama’s political acumen. This clip features The NewsHour with Jim Lehrer’s profile of Obama as a “rising star” the night before Obama gave the keynote address to the 2004 Democratic National Convention. Here, we see national media discussing Obama’s multi-racial identity, his father’s Kenyan heritage, his status as “an underdog” with a keen ability to unite a broad range of voting blocs, inspiring supporters to loudly chant “yes, we can!” – a rallying cry that became a cornerstone of his future presidential campaign."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-05-14T20:51:46.762Z",
+  "created_by": "HoganLR",
+  "label": "The NewsHour with Jim Lehrer",
+  "updated_at": "2026-05-14T20:51:46.762Z",
+  "updated_by": "HoganLR",
+  "rights_statement": ""
+}
