@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "68f5970b-f452-48eb-8fc9-aecbd00addce"
+    },
+    {
+      "start_time": 1254,
+      "end_time": 1275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jim Lehrer introduces the segment, \"a profile of John Kerry's choice to deliver the convention's keynote address later this evening.\" John Kerry, a senator from Massachusetts, was the Democratic nominee for president in 2004. Choosing the person to deliver the keynote address is a strategic decision; keynote serves an important function as the featured speech of the event, often setting the tone for the political party's platform and identity. As the last speech of the evening, it's function is also to leave attendees with optimism and inspiration."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "99971ee2-49b4-4ad2-8331-3d8f6717cab1"
     }
   ],
   "set": "Default",
