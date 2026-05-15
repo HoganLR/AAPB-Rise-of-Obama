@@ -68,6 +68,29 @@
       ],
       "tags": [],
       "uuid": "2dfebd57-3dca-4e1d-9aa7-12af1bbd3dc9"
+    },
+    {
+      "start_time": 350,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Without naming George W. Bush, Obama states that the current administration is working to maintain power for those already powerful, without listening to the \"voices of everyday Americans.\" It's important to note that this was recorded in 2004, so only three years after 9/11 but before the major economic fallout of the the "
+            },
+            {
+              "text": "Great Recession",
+              "link": "https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath"
+            },
+            {
+              "text": " (2007-2009)."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9239c6fc-9ac2-4cb0-84bb-5cb8c644aa48"
     }
   ],
   "set": "Default",
