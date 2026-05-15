@@ -36,6 +36,22 @@
         }
       ],
       "uuid": "04a1362b-4364-46af-8fdc-9617ac85f6ef"
+    },
+    {
+      "start_time": 196,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Obama describes the three years he spent working for the Developing Communities Project (1985-1988) in South Chicago before going to law school."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b2dcd1e8-05a1-4474-9c58-0fed494ddb3e"
     }
   ],
   "set": "Default",
