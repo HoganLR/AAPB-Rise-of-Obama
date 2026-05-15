@@ -31,6 +31,22 @@
       ],
       "tags": [],
       "uuid": "99971ee2-49b4-4ad2-8331-3d8f6717cab1"
+    },
+    {
+      "start_time": 1275,
+      "end_time": 1335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Supporters chanting \"yes, we can!\" at rally after Obama won the Illinois Democratic primary for senate in 2004. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "56de8e6b-a194-43fd-a3ab-84cbeb7d5790"
     }
   ],
   "set": "Default",
