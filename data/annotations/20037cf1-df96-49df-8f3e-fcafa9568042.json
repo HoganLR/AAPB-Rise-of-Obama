@@ -52,6 +52,22 @@
       ],
       "tags": [],
       "uuid": "b2dcd1e8-05a1-4474-9c58-0fed494ddb3e"
+    },
+    {
+      "start_time": 280,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Obama recounts his major accomplishments as a state senator, such as implementing the earned income tax credit, and specific efforts in welfare reform and revamping the criminal justice system. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2dfebd57-3dca-4e1d-9aa7-12af1bbd3dc9"
     }
   ],
   "set": "Default",
