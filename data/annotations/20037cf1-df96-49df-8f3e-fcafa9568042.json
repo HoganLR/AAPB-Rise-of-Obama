@@ -91,6 +91,22 @@
       ],
       "tags": [],
       "uuid": "9239c6fc-9ac2-4cb0-84bb-5cb8c644aa48"
+    },
+    {
+      "start_time": 417,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The host begins taking questions from callers. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "61acb676-51b2-4e8c-913b-15c732c256a1"
     }
   ],
   "set": "Default",
