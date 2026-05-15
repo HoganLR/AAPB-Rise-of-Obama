@@ -55,13 +55,13 @@
     },
     {
       "start_time": 280,
-      "end_time": 401,
+      "end_time": 350,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Obama recounts his major accomplishments as a state senator, such as implementing the earned income tax credit, and specific efforts in welfare reform and revamping the criminal justice system. "
+              "text": "Obama recounts his major accomplishments as a state senator, such as passing the earned income tax credit, and specific efforts in welfare reform and revamping the criminal justice system. "
             }
           ]
         }
