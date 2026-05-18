@@ -47,6 +47,30 @@
       ],
       "tags": [],
       "uuid": "56de8e6b-a194-43fd-a3ab-84cbeb7d5790"
+    },
+    {
+      "start_time": 1297,
+      "end_time": 1335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Referring to himself as a \"skinny guy with a funny name like Barack Obama\" signifies a strategic effort to familiarize the audience with self-deprecating humor. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f96f6d1d-e24d-4a89-b368-9258bedfe798"
     }
   ],
   "set": "Default",
