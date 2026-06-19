@@ -84,6 +84,31 @@
         }
       ],
       "uuid": "f9a9e332-a6ee-4e96-b578-2039e0fb7fc1"
+    },
+    {
+      "start_time": 6496,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this section, he uses a series of brief anecdotes about people he's met who are struggling in a variety of different ways to highlight the ways government can do better. He shares the story of workers in Galesburg, Illinois losing their jobs; a woman in East St. Louis who wants further schooling but can't afford it; a veteran in East Moline, Illinois trying to reacclimatize to life after military service. Including the specific names of each person enhances the reliability the speaker and the veracity of his claims. Hearing about specific struggles also enhances the audience's emotions, "
+            },
+            {
+              "text": "employing what Aristotle refers to as \"pathos\". ",
+              "link": "https://plato.stanford.edu/entries/aristotle-rhetoric/#PersThroEmotHear"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Strategy",
+          "tag": "Repetition"
+        }
+      ],
+      "uuid": "cdca4f0c-9b12-44de-9535-af00d1ed907e"
     }
   ],
   "set": "Default",
