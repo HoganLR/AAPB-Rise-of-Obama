@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "7d524f98-26ac-4168-8460-5f1894fec3f0"
+    },
+    {
+      "start_time": 6155,
+      "end_time": 6215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Obama takes the stage, the PBS commentators compare Obama to a \"meteor,\" referencing his quick rise to national recognition after winning the Illinois Senate seat earlier that year. They also compare him to Adlai Stevenson, a former Illinois Governor and presidential candidate, who delivered a rousing speech at the Democratic National Convention in 1956, also held in Chicago nearly 50 years earlier. Stevenson's 1956 convention speech, \"A New America,\" offered an optimistic vision for the United States during the rise of the Cold War and the recent memories of World War II. The commentators make this comparison to Stevenson as the applause dies down before Obama begins, setting expectations that Obama, too, may signify a \"new America\" amid the Iraq War and recent memories of 9/11."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fa3464f1-6395-4614-8818-cba9667150a1"
     }
   ],
   "set": "Default",
