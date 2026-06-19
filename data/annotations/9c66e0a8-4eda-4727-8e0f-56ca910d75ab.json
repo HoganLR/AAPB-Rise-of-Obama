@@ -38,6 +38,31 @@
       ],
       "tags": [],
       "uuid": "fa3464f1-6395-4614-8818-cba9667150a1"
+    },
+    {
+      "start_time": 6233,
+      "end_time": 6360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He spends the first several paragraphs describing his upbringing, mentioning his father as a \"poor herdsman,\" his grandfather as a cook, his maternal grandfather's patriotism in joining Patton's army during WWII. This narration signals to the listener that the speaker comes from a family of honest, purpose, hard work, and loyal to America, establishing what "
+            },
+            {
+              "text": "Aristotle refers to as \"ethos\" - the character and credibility of the speaker.",
+              "link": "https://plato.stanford.edu/entries/aristotle-rhetoric/#PersThroCharSpea"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Strategy",
+          "tag": "Personal narrative/anecdote"
+        }
+      ],
+      "uuid": "64be4965-286b-4202-be14-a806e56bbcf0"
     }
   ],
   "set": "Default",
