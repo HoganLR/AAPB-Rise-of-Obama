@@ -63,6 +63,27 @@
         }
       ],
       "uuid": "64be4965-286b-4202-be14-a806e56bbcf0"
+    },
+    {
+      "start_time": 6388,
+      "end_time": 6508,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this section, Obama makes intentional use of the first-person plural pronoun \"we\" to emphasize not only his identity as an American, but also to enhance the feeling of inclusivity of everyone in the crowd sharing a joint experience as Americans. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rhetorical Strategy",
+          "tag": "Third-person plural \"we\""
+        }
+      ],
+      "uuid": "f9a9e332-a6ee-4e96-b578-2039e0fb7fc1"
     }
   ],
   "set": "Default",
